@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Necip Arda</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Data Science and Web Techs**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
