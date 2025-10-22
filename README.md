@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Necip Arda</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Web and Mobile Techs**
+- 🔭 I’m currently working on **Web & Mobile Techs**
 
 - 🌱 I’m currently learning **React-Native**
 
