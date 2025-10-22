@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Web & Mobile Techs**
-
-- 🌱 I’m currently learning **React-Native**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/necipardaaa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="necipardaa" height="30" width="40" /></a>
